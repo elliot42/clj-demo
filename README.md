@@ -2,7 +2,16 @@
 
 Barebones demo of Clojure project setup
 
-## Usage
+## Usage via `main`
+
+Invoke your namespace with `main` via `clj -m <namespace>` command-line tool
+
+```bash
+> cd clj-demo
+> clj -m demo.b
+```
+
+## Usage via REPL
 
 1. Start the repl with `clj`
 
